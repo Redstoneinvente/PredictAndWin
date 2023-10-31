@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cryptogame.PredictAndWin",
+      "sha256_cert_fingerprints": [
+        "78:12:41:FF:E3:52:57:ED:98:70:FF:70:23:76:64:87:CD:9B:17:96:5B:D5:68:FF:28:96:5D:E1:95:27:9D:DF"
+      ]
+    }
+  }
+]
