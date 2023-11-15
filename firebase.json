@@ -5,6 +5,15 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+        "rewrites": [
+            {
+                "source": "/assetlinks.json",
+                "destination": "/assetlinks.json",
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        ]
   }
 }
